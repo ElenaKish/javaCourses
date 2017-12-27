@@ -1,0 +1,12 @@
+guru:
+  jms:
+    username: Elena
+    password: 123456
+    url: localhost
+
+---
+spring:
+    profiles: de
+guru:
+  jms:
+    username: Elena G

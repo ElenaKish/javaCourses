@@ -1,0 +1,37 @@
+# comment
+
+name: Elena
+
+names: #comment
+    - Jone
+    - Elena
+    - Ivan
+
+pound_sing: "#"
+
+
+book:
+    author: Joe Buck
+    publisher: house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, False
+
+string_val: "String value"
+
+colon_string:  "my cources: one two three"
+
+include_new_lines: |
+  one line
+  two line
+  three line
+
+ignore_new_lines: >
+  this is
+  just one long
+  string
